@@ -1,3 +1,6 @@
 .serena/
 .github/
 *.pkl
+.env
+.secrets/
+Dockerfile.dockercli
